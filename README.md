@@ -12,7 +12,7 @@ The app ensures that horizontal scrolling of the left and right tables is synchr
 
 Setup Instructions
   1. Clone the Repository
-    git clone https://github.com/yourusername/scrolling-table-app.git
+    git clone https://github.com/Kdkartik7275/Stock-Table-Example.git
     cd scrolling-table-app
 
   2. Get Flutter Packages
