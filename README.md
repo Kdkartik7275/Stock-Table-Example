@@ -1,4 +1,4 @@
-Scrolling Table App
+Scrolling Table Functionality
 
 This project demonstrates a synchronized scrolling functionality for a table with three sections: left, middle, and right. The middle table contains centered columns ("Strike" and "IV"), while the left and right tables contain related data that scroll horizontally in sync.
 
@@ -22,6 +22,8 @@ Setup Instructions
      flutter run
 
 Code Explanation:
+
+
   main.dart: Initializes the app and sets up the TableScreen widget.
   table_screen.dart: Contains the main UI with three synchronized tables. Handles scroll synchronization.
   data_sources.dart: Provides data sources for the left, middle, and right tables.
