@@ -25,8 +25,16 @@ Code Explanation:
 
 
   main.dart: Initializes the app and sets up the TableScreen widget.
+
+  
   table_screen.dart: Contains the main UI with three synchronized tables. Handles scroll synchronization.
+
+  
   data_sources.dart: Provides data sources for the left, middle, and right tables.
+
+  
   data_model.dart: Defines the data models for stock data.
+
+  
   sf_table.dart: Custom widget for displaying a table using SfDataGrid.
 
