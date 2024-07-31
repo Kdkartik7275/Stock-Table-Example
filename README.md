@@ -12,16 +12,16 @@ The app ensures that horizontal scrolling of the left and right tables is synchr
 
 Setup Instructions
   1. Clone the Repository
-    git clone https://github.com/Kdkartik7275/Stock-Table-Example.git
+    git clone https://github.com/Kdkartik7275/Stock-Table-Example.git.
     cd scrolling-table-app
 
-  3. Get Flutter Packages
+  3. Get Flutter Packages:
      flutter pub get
 
-  4. Run the App
+  4. Run the App:
      flutter run
 
-Code Explanation
+Code Explanation:
   main.dart: Initializes the app and sets up the TableScreen widget.
   table_screen.dart: Contains the main UI with three synchronized tables. Handles scroll synchronization.
   data_sources.dart: Provides data sources for the left, middle, and right tables.
