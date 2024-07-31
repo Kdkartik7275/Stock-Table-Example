@@ -15,10 +15,10 @@ Setup Instructions
     git clone https://github.com/Kdkartik7275/Stock-Table-Example.git
     cd scrolling-table-app
 
-  2. Get Flutter Packages
+  3. Get Flutter Packages
      flutter pub get
 
-  3. Run the App
+  4. Run the App
      flutter run
 
 Code Explanation
